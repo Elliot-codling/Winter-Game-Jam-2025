@@ -2,7 +2,7 @@
 
 ## Assets
 Books - https://sketchfab.com/3d-models/books-246fe2465d9d4bd4b70991c72bb01be1 \
-Bookshelf - https://sketchfab.com/3d-models/low-poly-bookshelf-f5d0ff9eff4241c69d180b8088166331
-Low Poly Computer Desk  - https://skfb.ly/6SUML
-Low Poly Door - https://skfb.ly/or7xw
-Wooden Floor - https://skfb.ly/pqvNG
+Bookshelf - https://sketchfab.com/3d-models/low-poly-bookshelf-f5d0ff9eff4241c69d180b8088166331 \
+Low Poly Computer Desk  - https://skfb.ly/6SUML \
+Low Poly Door - https://skfb.ly/or7xw \
+Wooden Floor - https://skfb.ly/pqvNG 
