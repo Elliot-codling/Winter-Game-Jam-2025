@@ -1,0 +1,4 @@
+- Click on objects to focus on them, collect them, or to travel between rooms.
+- R key to unfocus from objects (Apart from the terminal, which uses the esc key).
+- Use the keyboard to type on the terminal.
+- Use number keys 1, 2 and 3 to put books onto the bookshelf (Red, green and blue books respectively).

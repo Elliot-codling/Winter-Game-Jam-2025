@@ -1,0 +1,55 @@
+Step 1:
+
+Click the right most shelf above the desk, click the golden key behind the picture.
+
+
+
+
+Step 2:
+
+Access the terminal and see that it requires a password, the clue is hidden on the desk on the sticky note.
+Go to the room on the right by clicking on the door and find the globe above the fireplace, the pin is where the "dream destination" is.
+Go back to the first room and input "greenland" into the terminal to unlock it.
+
+
+
+
+Step 3:
+
+The bookcase on the left of the room requires books to be put into it in the order that you can find by inputting "open books.txt" into the terminal. With "R" being red, "G" being green, and "B" being blue.
+You must find the books hidden around the two rooms, then click them into their respective slots on the middle shelf of the bookshelf.
+
+4 RED
+3 GREEN
+3 BLUE
+
+First Room:
+Left side of wardrobe
+Left shelf
+Middle shelf
+On floor on right side of desk
+
+Second Room:
+Left side of TV
+Floor infront of TV
+Floor left side of fireplace
+On fireplace
+On coffee table
+Right hand side of couch (hard to see)
+
+
+
+
+
+Step 4:
+
+The last step unlocked a safe in the room on the right, go and find the code hidden in the room. The picture nearby is a hint.
+
+Input the time "1135" into the safe and click the green button, this will give you a key to unlock the final door.
+
+
+
+
+Step 5:
+
+Exit the room.
